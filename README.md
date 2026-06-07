@@ -153,7 +153,7 @@ pwc-callcentre-dashboard/
 │
 ├── PwC_Call_Centre_Analysis.pbix
 ├── README.md
-└── .gitignore
+
 ```
 
 ---
@@ -169,7 +169,7 @@ pwc-callcentre-dashboard/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pwc-callcentre-dashboard.git
+git clone https://github.com/Amy-N15/PwC-Call-Center-Analysis-Dashboard.git
 ```
 
 2. Open `PwC_Call_Centre_Analysis.pbix`
