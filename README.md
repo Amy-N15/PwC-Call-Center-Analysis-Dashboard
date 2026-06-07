@@ -72,8 +72,7 @@ This project analyses call centre operations between January and March 2021 to a
 * Resolution performance remained relatively consistent across all support categories.
 
 📄 For the complete analysis and business recommendations, see:
-
-**docs/insights_summary.md**
+[Insights Summary](docs/insights_summary.md).
 
 ---
 
