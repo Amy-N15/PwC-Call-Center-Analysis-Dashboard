@@ -11,6 +11,7 @@
 
 
 ### Agent Performance Analysis
+<img width="862" height="584" alt="image" src="https://github.com/user-attachments/assets/1f953681-3b8e-4ca5-af3c-c49ee13db65f" />
 
 ---
 
