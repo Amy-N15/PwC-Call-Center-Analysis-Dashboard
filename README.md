@@ -7,10 +7,12 @@
 ## 📊 Dashboard Preview
 
 ### Executive Overview
+<img width="863" height="586" alt="image" src="https://github.com/user-attachments/assets/f53bfcb5-0243-4b16-ac88-9f17e0f8b0ba" />
 
 
 
 ### Agent Performance Analysis
+![Uploading image.png…]()
 
 ---
 
