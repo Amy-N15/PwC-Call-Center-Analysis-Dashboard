@@ -7,7 +7,7 @@
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-<img width="865" height="582" alt="image" src="https://github.com/user-attachments/assets/8c2cdc4d-24c9-40df-8adc-f28a451367d9" />
+<img width="862" height="582" alt="Executive Overview" src="https://github.com/user-attachments/assets/4a29b264-1833-45f3-9e91-75ee79cfae48" />
 
 
 ### Agent Performance Analysis
@@ -140,7 +140,7 @@ This project analyses call centre operations between January and March 2021 to a
 ```text
 pwc-callcentre-dashboard/
 │
-├── data/
+├── datasets/
 │   └── 01_Call-Center-Dataset.xlsx
 │
 ├── assets/
